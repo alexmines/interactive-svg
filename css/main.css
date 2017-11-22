@@ -18,7 +18,7 @@
   animation: move 3s linear infinite;
 }
 
-@@keyframes {
+@keyframes move {
 
   0% {
     transform: translateX(0);
